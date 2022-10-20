@@ -1,17 +1,13 @@
+*** Now run 'gdb' in another window.
 
 xv6 kernel is booting
 
 hart 1 starting
 hart 2 starting
 init: starting sh
-$ mkdir FjKklAnr
-$ echo > FjKklAnr/gRhJeLTj
-$ mkdir FjKklAnr/u5zxXrMc
-$ echo > FjKklAnr/u5zxXrMc/gRhJeLTj
-$ mkdir eQRXF7dT
-$ echo > eQRXF7dT/gRhJeLTj
-$ find . gRhJeLTj
-./FjKklAnr/gRhJeLTj
-./FjKklAnr/u5zxXrMc/gRhJeLTj
-./eQRXF7dT/gRhJeLTj
-$ qemu-system-riscv64: terminating on signal 15 from pid 21534 (<unknown process>)
+$ sh < xargstest.sh
+$ echo DONE
+$ $ $ $ $ hello
+hello
+hello
+$ $ DONEqemu-system-riscv64: terminating on signal 15 from pid 19057 (<unknown process>)

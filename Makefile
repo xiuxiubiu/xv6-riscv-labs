@@ -196,6 +196,7 @@ UPROGS=\
 	$U/_testio\
 	$U/_testpipes\
 	$U/_testlink\
+	$U/_xargs\
 
 
 
