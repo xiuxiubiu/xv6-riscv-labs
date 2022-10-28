@@ -1,0 +1,15 @@
+
+xv6 kernel is booting
+
+hart 1 starting
+hart 2 starting
+init: starting sh
+$ mkdir 7RiCwEMH
+$ echo > 7RiCwEMH/vXcRdlhn
+$ mkdir 7RiCwEMH/z0xc2eHh
+$ echo > 7RiCwEMH/z0xc2eHh/vXcRdlhn
+$ mkdir ZW6KzVXR
+$ echo > ZW6KzVXR/vXcRdlhn
+$ find . vXcRdlhn
+exec find failed
+$ qemu-system-riscv64: terminating on signal 15 from pid 51468 (<unknown process>)
