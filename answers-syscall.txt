@@ -1,0 +1,3 @@
+kernel/usertrap.c:67
+
+0xf  SYS_open
